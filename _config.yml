@@ -1,6 +1,7 @@
-title: Minimal theme
+title: <p align="center"> Graison </p>
 logo: /assets/img/FBPic.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/graisonthomas/">LinkedIn</a> |
 google_analytics:
 theme: jekyll-theme-minimal
